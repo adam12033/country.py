@@ -1,6 +1,3 @@
-#Délczeg ÁDÁM
-#2022-01-10
-#Ifra I N
 
 
 from country import Country     #1.
