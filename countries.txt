@@ -1,0 +1,8 @@
+No#Név#Terület (2km)#Népesség
+1#Csendes-óceáni-szigetek#1779#149000
+2#Kiribati#811#119940
+3#Guam#541#161785
+4#Északi-Mariana-szigetek#477#55144
+5#Marshall-szigetek#181#53127
+6#Nauru#21#13650
+7#Palau#458#21729
